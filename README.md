@@ -23,7 +23,7 @@ Essas tags, quando bem utilizadas, melhoram o <strong><i>SEO da Página</i></str
 
 
 
-Responsivo 📱
+<strong>Responsivo</strong> 📱
 <br>
 <br>
 <img src="https://github.com/Danmoraes1/Easy-Shopping/blob/main/assets/EasyShopping2.png?raw=true" >  
