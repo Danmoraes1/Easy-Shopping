@@ -1,6 +1,8 @@
 <h1>Easy-Shopping🛍️</h1>
 
-<h3>Essse projeto eu aprendi com o Rodolfo Mori no <a href="https://rodolfomori.com/devclub">DevClub</a></h3>
+<h3>Essse projeto eu aprendi com o Rodolfo Mori no <a href="https://rodolfomori.com.br/devclub-n1/">DevClub</a></h3>
+
+<a href="https://danmoraes1.github.io/Easy-Shopping/">Link do Projeto<a/>
 
 <img src="https://github.com/Danmoraes1/Easy-Shopping/blob/main/assets/EasyShopping1.png?raw=true"> 
 
