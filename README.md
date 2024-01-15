@@ -1,22 +1,18 @@
 <h1>Easy-Shopping</h1>
-<br>
-<br>
 
-<h2>Essse projeto eu aprendi no  <a href="https://rodolfomori.com/devclub">DevClub</a></h2>
+<h3>Essse projeto eu aprendi com o Rodolfo Mori no <a href="https://rodolfomori.com/devclub">DevClub</a></h3>
 
-<h3> Tecnologias Ultilizadas: </h3>
-<p> HTML
-CSS </p>
+<h4> Tecnologias Ultilizadas: </h4>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo-css3">
 
 
-<img src=""> 
-
-<img src=""> 
+<img src="https://github.com/Danmoraes1/Easy-Shopping/blob/main/assets/EasyShopping1.png?raw=true"> 
 
 
 
 
-<p>Nesse projeto aprendi e realizei o uso de algumas Tags HTML Sêmanticas, como por exemplo:
+<p> Nesse projeto aprendi e realizei o uso de algumas Tags HTML Sêmanticas, como por exemplo:
 
 section, header, h1, p; 
 
@@ -25,3 +21,7 @@ Essas Tags quando bem ultilizadas melhoram o SEO da Página fazendo-a alcançar 
 Já no CSS aprendi ferramestas práticas para a estilização usando cores e opacidade para das o efeito de navegação da pagina veja por exemplo como ficou o botão.
 
 E por ultimo aprendi bastante sobre responsividade e procionamento de elementos na tela. </p>
+
+<div style="text-align: center;">
+<img src="https://github.com/Danmoraes1/Easy-Shopping/blob/main/assets/EasyShopping2.png?raw=true" > 
+</div>
